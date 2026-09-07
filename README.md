@@ -9,8 +9,7 @@ A Flutter mobile application that classifies colon tissue histology slides as ma
 
 | Input Screen | Malignant Result | OOD Rejection |
 | :---: | :---: | :---: |
-| <img width="250" alt="Input" src="https://github.com/user-attachments/assets/de8eea34-5bf7-4806-b59b-dbc5d98196fa" /> | <img width="250" alt="Malignant" src="https://github.com/user-attachments/assets/b9425689-cf06-4be0-be82-36f9d586c6fc" /> | <img width="250" alt="Rejection" src="https://github.com/user-attachments/assets/725df245-99e3-487d-8a0f-400573683f37" />
- |
+| <img width="250" alt="Input" src="https://github.com/user-attachments/assets/de8eea34-5bf7-4806-b59b-dbc5d98196fa" /> | <img width="250" alt="Malignant" src="https://github.com/user-attachments/assets/b9425689-cf06-4be0-be82-36f9d586c6fc" /> | <img width="250" alt="Rejection" src="https://github.com/user-attachments/assets/725df245-99e3-487d-8a0f-400573683f37" /> |
 
 
 
