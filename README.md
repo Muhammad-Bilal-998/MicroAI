@@ -8,17 +8,17 @@ A Flutter mobile application that classifies colon tissue histology slides as ma
 ## Visual Demo
 | Input Screen | Malignant Result | OOD Rejection |
 | :---: | :---: | :---: |
-| <img width="772" height="1600" alt="Input" src="https://github.com/user-attachments/assets/de8eea34-5bf7-4806-b59b-dbc5d98196fa" />
- | <img width="755" height="1600" alt="Malignant" src="https://github.com/user-attachments/assets/b9425689-cf06-4be0-be82-36f9d586c6fc" />
- | <img width="777" height="1600" alt="Rejection" src="https://github.com/user-attachments/assets/7228f136-bcc9-4125-9972-25470bdbc594" />
- |
+| <img width="772" height="1600" alt="Input" src="https://github.com/user-attachments/assets/de8eea34-5bf7-4806-b59b-dbc5d98196fa" /> |
+  <img width="755" height="1600" alt="Malignant" src="https://github.com/user-attachments/assets/b9425689-cf06-4be0-be82-36f9d586c6fc" /> |
+  <img width="777" height="1600" alt="Rejection" src="https://github.com/user-attachments/assets/7228f136-bcc9-4125-9972-25470bdbc594" /> |
+
 
 *(Replace the placeholders above with actual screenshots from your app. Drag and drop PNG/JPG images into your GitHub repository and paste their links here.)*
 
 ## The Problem & Solution
-Access to pathologists is severely limited in low-resource clinical settings across Pakistan and the broader developing world. A single histopathology report can take days to weeks when diagnostic infrastructure is unavailable, causing critical delays in cancer triage. Early detection of colon adenocarcinoma — one of the most treatable cancers when caught early — is directly tied to how quickly a slide can be reviewed.
+Access to pathologists is severely limited in low-resource clinical settings across Pakistan and the broader developing world. A single histopathology report can take days to weeks when diagnostic infrastructure is unavailable, causing critical delays in cancer triage. Early detection of colon adenocarcinoma, one of the most treatable cancers when caught early, is directly tied to how quickly a slide can be reviewed.
 
-MicroAI addresses this bottleneck by deploying a highly compressed MobileNetV2 model directly onto a standard Android smartphone. A healthcare worker or junior clinician can capture or upload a colon histology slide image and receive a triage-level classification result in under 250 milliseconds, entirely offline, with no cloud dependency. This is not a replacement for a pathologist — it is a first-pass screening tool that flags high-risk cases for priority review.
+MicroAI addresses this bottleneck by deploying a highly compressed MobileNetV2 model directly onto a standard Android smartphone. A healthcare worker or junior clinician can capture or upload a colon histology slide image and receive a triage-level classification result in under 250 milliseconds, entirely offline, with no cloud dependency. This is not a replacement for a pathologist, it is a first-pass screening tool that flags high-risk cases for priority review.
 
 ## Key Features
 *   **Zero Cloud Dependency** — 100% offline inference using TensorFlow Lite. The app functions with no internet connection, making it viable in remote or resource-limited environments.
